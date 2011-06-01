@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CloudSolutions/!svn/ver/337/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default
+END
+grants.sql.erb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CloudSolutions/!svn/ver/37/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default/grants.sql.erb
+END
+dashboard.initial_data.json.erb
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CloudSolutions/!svn/ver/37/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default/dashboard.initial_data.json.erb
+END
+dashboard.local_settings.erb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CloudSolutions/!svn/ver/37/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default/dashboard.local_settings.erb
+END
+sysctl.conf.erb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CloudSolutions/!svn/ver/37/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default/sysctl.conf.erb
+END
+dashboard.apache.erb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CloudSolutions/!svn/ver/37/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default/dashboard.apache.erb
+END
+nova.conf.erb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CloudSolutions/!svn/ver/337/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default/nova.conf.erb
+END
+fixed-range.sql.erb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CloudSolutions/!svn/ver/315/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/templates/default/fixed-range.sql.erb
+END

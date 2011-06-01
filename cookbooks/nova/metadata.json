@@ -1,0 +1,50 @@
+{
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "maintainer_email": "oss@opscode.com",
+  "groupings": {
+  },
+  "dependencies": {
+    "runit": [
+
+    ],
+    "mysql": [
+
+    ],
+    "openssl": [
+
+    ],
+    "apt": [
+
+    ],
+    "openldap": [
+
+    ],
+    "build-essential": [
+
+    ],
+    "rabbitmq": [
+
+    ]
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "license": "Apache 2.0",
+  "version": "0.1.0",
+  "conflicting": {
+  },
+  "long_description": "Description\n===========\nCookbook and recipes for deploying OpenStack Nova.\n\nThis Chef repository is based on the work of Anso Labs' OpenStack-Cookbooks (https://github.com/ansolabs/openstack-cookbooks). It is currently intended for deploying the point-release codenamed \"Bexar\", other branches will be added in time for the next release \"Cactus\" as well as on-going development branches.\n\nRequirements\n============\nWritten and tested with Ubuntu 10.04 and 10.10 and Chef 0.9.12. \n\nAttributes\n==========\nAttributes under the `nova` namespace.\n\nDefinitions\n===========\nnova_package\n------------\nThis handles installing nova packages generically and managing them as services.\n\nResources/Providers\n===================\n\nRecipes\n=======\nall\n---\n\napi\n---\n\ncommon\n------\n\ncompute\n-------\nProvides the compute functionality, currently depends on KVM.\n\ncreds\n-----\nCreate Nova certifications, per http://wiki.openstack.org/NovaInstall/MultipleServer\n\ndashboard\n---------\n\ndefault\n-------\n\nfilevg\n------\n\nfinalize\n--------\nThe last cleanup steps of the install.\n\nhostname\n--------\n\nmysql\n-----\n\nnetwork\n-------\n\nobjectstore\n-----------\n\nopenldap\n--------\n\nrabbit\n------\n\nscheduler\n---------\n\nsetup\n-----\n\nsource\n------\n\nvolume\n------\n\nData Bags\n=========\n\nUsage\n=====\n\nLicense\n=======\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n",
+  "name": "nova",
+  "providing": {
+  },
+  "description": "Installs/Configures nova",
+  "recipes": {
+  },
+  "maintainer": "Opscode, Inc."
+}

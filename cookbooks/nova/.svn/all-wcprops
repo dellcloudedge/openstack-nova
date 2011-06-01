@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CloudSolutions/!svn/ver/355/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova
+END
+metadata.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CloudSolutions/!svn/ver/315/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/metadata.rb
+END
+metadata.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CloudSolutions/!svn/ver/315/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/metadata.json
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CloudSolutions/!svn/ver/315/trunk/crowbar/change-image/dell/barclamps/nova/chef/cookbooks/nova/README.md
+END
